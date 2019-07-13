@@ -10,6 +10,7 @@ yaoqiwood 的个人博客
 
 ### 最新
 
+* [( Saturday, July 13th, 2019 ) 不加班的周末不是好周末](http://catswoodpro.xyz/articles/2019/07/13/1562987633879.html)
 * [我在 GitHub 上的开源项目](http://catswoodpro.xyz/my-github-repos)
 * [世界，你好！](http://catswoodpro.xyz/hello-solo)
 
