@@ -10,6 +10,8 @@ yaoqiwood 的个人博客
 
 ### 最新
 
+* [[日常遇到問題] 解决 Nginx -s reload時 爆出 /var/run/nginx.pid failed 的問題](http://catswoodpro.xyz/articles/2019/07/14/1563118250578.html)
+* [( Sunday, July 14th, 2019 ) 除了编程我还做些啥子。。。](http://catswoodpro.xyz/articles/2019/07/14/1563096481647.html)
 * [Solo 博客，官方教程docker 部署记录](http://catswoodpro.xyz/articles/2019/07/14/1563059297117.html)
 * [( Saturday, July 13th, 2019 ) 不加班的周末不是好周末](http://catswoodpro.xyz/articles/2019/07/13/1562987633879.html)
 * [我在 GitHub 上的开源项目](http://catswoodpro.xyz/my-github-repos)
