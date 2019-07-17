@@ -10,6 +10,7 @@ yaoqiwood 的个人博客
 
 ### 最新
 
+* [[ bug记录 ] 解决eclipse、idea 使用tomcat 启动项目时读取不到配置文件的问题](http://catswoodpro.xyz/articles/2019/07/17/1563321424789.html)
 * [PowerDesigner 16 (PDM) 生成Sql 数据库脚本](http://catswoodpro.xyz/articles/2019/07/16/1563249365903.html)
 * [[日常問題] 解决 Nginx -s reload時 炸出 /var/run/nginx.pid failed的問題](http://catswoodpro.xyz/articles/2019/07/14/1563118250578.html)
 * [( Sunday, July 14th, 2019 ) 除了编程我还做些啥子。。。](http://catswoodpro.xyz/articles/2019/07/14/1563096481647.html)
