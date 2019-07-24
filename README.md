@@ -10,6 +10,7 @@ yaoqiwood 的个人博客
 
 ### 最新
 
+* [[ bug记录 ]](http://catswoodpro.xyz/articles/2019/07/24/1563924963770.html)
 * [(Monday, July 22th, 2019 ) 这书不得了咯—— 小说《失乐园》 作者：渡边淳一](http://catswoodpro.xyz/articles/2019/07/22/1563749886284.html)
 * [[ bug记录 ] 解决eclipse、idea 使用tomcat 启动项目时读取不到配置文件的问题](http://catswoodpro.xyz/articles/2019/07/17/1563321424789.html)
 * [PowerDesigner 16 (PDM) 生成Sql 数据库脚本](http://catswoodpro.xyz/articles/2019/07/16/1563249365903.html)
