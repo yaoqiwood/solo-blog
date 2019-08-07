@@ -10,6 +10,7 @@ yaoqiwood 的个人博客
 
 ### 最新
 
+* [（水）火狐Firefox经常做这种事情](http://catswoodpro.xyz/articles/2019/08/06/1565094314278.html)
 * [[ 经验分享 ] 如何让Eclipse 能够像Idea 那样对Jar包反编译查看代码](http://catswoodpro.xyz/articles/2019/08/02/1564746486671.html)
 * [[ bug记录 ]](http://catswoodpro.xyz/articles/2019/07/24/1563924963770.html)
 * [(Monday, July 22th, 2019 ) 这书不得了咯—— 小说《失乐园》 作者：渡边淳一](http://catswoodpro.xyz/articles/2019/07/22/1563749886284.html)
