@@ -10,6 +10,7 @@ yaoqiwood 的个人博客
 
 ### 最新
 
+* [[日常记录] 关于廖雪峰大大Python 教程的高阶函数 map/reduce 的课后习题自己的题解](http://catswoodpro.xyz/articles/2019/10/20/1571582108928.html)
 * [[经验分享] 秘籍！穿墙术！！！！！](http://catswoodpro.xyz/articles/2019/10/14/1571065383250.html)
 * [[ 学习分享 ] 基于python实现的汉诺塔递归实现与分析（内容偏水](http://catswoodpro.xyz/articles/2019/09/12/1568292575267.html)
 * [[ 水，前端积累 ] 如何复制 一个JSON 对象 到新的对象里（Object.assign())](http://catswoodpro.xyz/articles/2019/09/04/1567567180938.html)
